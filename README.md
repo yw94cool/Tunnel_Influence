@@ -1,6 +1,6 @@
-## yuan_proj
+## BuildingDetecion
 
-This repository contains the code and results of the assignment
+This repository contains the code and results of the Building detection from point cloud
 
 
 ## Requirements
